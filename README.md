@@ -82,7 +82,6 @@ black # to format code to meet python coding standards
 pip-check -H  # to see upgradable packages
 ```
 
-CHANGE TO TEST 
 Community
 =========
 
@@ -103,7 +102,6 @@ This project exists thanks to all the people who contribute!
 
 ![image](https://opencollective.com/django-crm/contributors.svg?width=890&button=false)
 
-NEW CHANGE FOR COMMIT
 
 Feature requests and bug reports
 ================================
