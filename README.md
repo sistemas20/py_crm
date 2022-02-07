@@ -103,6 +103,7 @@ This project exists thanks to all the people who contribute!
 
 ![image](https://opencollective.com/django-crm/contributors.svg?width=890&button=false)
 
+NEW CHANGE FOR COMMIT
 
 Feature requests and bug reports
 ================================
