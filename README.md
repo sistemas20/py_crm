@@ -9,7 +9,7 @@ and feature requests via github.
 
 This project contains the following modules:
 
-> -   Contacts
+> -   Contacts{{{{
 > -   Accounts
 > -   Invoices
 > -   Cases
